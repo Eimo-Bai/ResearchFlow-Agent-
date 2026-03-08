@@ -144,7 +144,7 @@ print(res.text)
 
 ---
 
-## 5. 快速开始（Quick Start）— API 调用示例（可直接复制）
+## 5. 快速开始（Quick Start）— API 调用示例
 
 > 替换下面的占位符：  
 > - `<YOUR_COZE_DOMAIN>`：你的 Coze 部署域名（例如：gyz344qgv3.coze.site）  
@@ -152,7 +152,7 @@ print(res.text)
 
 ---
 
-## 5. API 调用示例（可复制）
+## 5. API 调用示例
 
 > 替换占位符：  
 > - `<YOUR_COZE_DOMAIN>`：例如 `gyz344qgv3.coze.site`  
@@ -160,7 +160,7 @@ print(res.text)
 
 ---
 
-### 5.1 获取入参 schema（可选）
+### 5.1 获取入参 schema
 
 **cURL**
 ```bash
